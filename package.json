@@ -1,0 +1,13 @@
+{
+    "name": "com.randomsomethings.fyziks",
+    "version": "1.0.0",
+    "displayName": "Fyziks",
+    "description": "Physics Engine For Unity",
+    "unity": "2019.1",
+    
+    "author": {
+      "name": "Charlie Blaize",
+      "email": "supercharlietube@gmail.com",
+      "url": "https://randomsomethings.net"
+    }
+  }
